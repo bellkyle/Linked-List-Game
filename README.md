@@ -1,0 +1,2 @@
+# Linked-List-Game
+The goals of this programming assignment were to create a program that used linked lists and that created a basic creature fighting video game. The program inputs the number of creatures the user specifies, as well as the number of blasts, killings, and moves the user wants. The program outputs a list of all the creatures with the creatures’ position, velocity, health, and strength. The program does not have much error handling. If a creature’s health is zero, then that creature is deleted from the list.
